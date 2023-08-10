@@ -2,6 +2,7 @@
 
 Excel plotting application with the power of giving graphic user interface on the data within.
 Developed in Python. Use command, $streamlit run app.py {to run the application on local host}.
+Optional: For testing purposes, this repository includes an excel sheet named "Data.xlsx".
 
 Ingredients:
 <pre>
